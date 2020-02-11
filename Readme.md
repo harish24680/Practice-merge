@@ -1,7 +1,7 @@
 # THIS IS TO TEST RESOLVE MERGE CONFLICT
 
-1. Blue
-1. Green
-1. Line4
-1. Line5
-1. Line6
+1. Yellow
+1. Hari
+1. Rakesh
+1. Vikas
+
